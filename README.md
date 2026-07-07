@@ -74,50 +74,11 @@ euronsupport/
 │
 └── Documentation
     ├── README.md           # This file
-    └── ARCHITECTURE.md     # Comprehensive documentation
-```
+    
 
-## 🧪 Testing
 
-```bash
-python test_euronsupport.py
-```
 
-## 📖 Documentation
 
-For detailed documentation, see [ARCHITECTURE.md](ARCHITECTURE.md) which includes:
-- Complete system architecture
-- Database schema design
-- Workflow diagrams
-- Component details
-- Configuration guide
-- Setup instructions
-
-## 🎯 Key Components
-
-### AI Agents
-1. **Triage Lead** - Context and risk analysis
-2. **Support Analyst** - Ticket classification
-3. **SRE Analyst** - Infrastructure analysis
-4. **Backend Analyst** - Backend/data analysis
-5. **Tech Lead** - Synthesis and assignment
-
-### Managers (Indian Team)
-- Rajesh Kumar - SRE Lead
-- Priya Sharma - Backend Lead
-- Amit Patel - Support Manager
-- Anjali Singh - QA Lead
-- Vikram Reddy - Tech Lead
-
-## 🔧 Configuration
-
-See `.env.example` for all configuration options.
-
-## 📊 Database Schema
-
-See [ARCHITECTURE.md](ARCHITECTURE.md) for complete schema documentation.
-
-## 🤝 Support
 
 For issues or questions, refer to ARCHITECTURE.md or contact support@euronsupport.com
 
