@@ -1,0 +1,8 @@
+crewai==1.8.1
+openai~=1.83.0
+python-dotenv~=1.1.1
+streamlit>=1.28.0
+pandas>=2.0.0
+psycopg2-binary>=2.9.0
+plotly>=5.0.0
+numpy<2.0.0
